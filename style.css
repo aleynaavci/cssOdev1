@@ -1,0 +1,36 @@
+body {
+    background-color: #d5d0c2;
+    text-align: center;
+    list-style-position: inside;
+    font-family: sans-serif;
+}
+
+.right {
+    width: 900px;
+    margin: auto;
+}
+
+.left {
+    float: right;
+    padding: 0 10px 10px 0;
+}
+
+.menu {
+    list-style: none;
+    display: block;
+}
+
+.menu li {
+    display: inline;
+    margin: 10px;
+    position: relative;
+}
+
+h2,
+h3 {
+    color: #678983;
+}
+
+h4 {
+    color: #a04848;
+}
